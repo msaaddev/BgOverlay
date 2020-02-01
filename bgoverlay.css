@@ -1,0 +1,28 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.main_div {
+	height: 100vh;
+	background-image: url(home.jpg); /* Add link to the image*/
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+.overlay {
+	width: 100%;
+	height: 100%;
+	background-color: #000000;
+	opacity: 0;
+	position: absolute;
+	transition: all 0.5s;
+	display: flex;
+	overflow: hidden;
+}
+
+.overlay:hover {
+	opacity: 0.8;
+}
