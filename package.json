@@ -1,6 +1,4 @@
 {
-  "author": "Muhammad Saad",
-  "GitHub": "msaaddev",
   "name": "bgoverlay",
   "version": "1.0.0",
   "description": "",
@@ -18,6 +16,7 @@
     "overlay"
   ],
   "author": "Muhammad Saad",
+  "GitHub": "msaaddev",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/msaaddev/BgOverlay/issues"
