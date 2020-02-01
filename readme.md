@@ -31,7 +31,7 @@ Add any background image and overlay color you want then by writing the followin
 	background-image: url() !important; /* Add image URL */
 }
 
-.overlay:hover {
+.overlay {
 	background-color: black; /* Add any color */
 }
 ```
