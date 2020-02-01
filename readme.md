@@ -32,7 +32,7 @@ Add any background image and overlay color you want then by writing the followin
 }
 
 .overlay:hover {
-	background-color: black;
+	background-color: black; /* Add any color */
 }
 ```
 
